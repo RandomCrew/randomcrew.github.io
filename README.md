@@ -12,4 +12,4 @@ inspired in part by [a hackernews discussion](https://news.ycombinator.com/item?
 
 ## how
 
-See [the contributing section](./contributing/).g
+See [the contributing section](./contributing/).
